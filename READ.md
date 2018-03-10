@@ -1,1 +1,1 @@
-local test init1
+local test init2
